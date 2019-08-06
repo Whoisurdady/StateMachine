@@ -19,6 +19,7 @@ allprojects {
         google()
         jcenter()
         maven { url "https://raw.githubusercontent.com/Whoisurdady/StateMachine/master" }
+        maven { url "https://github.com/Whoisurdady/StateMachine/raw/master" }
     }
 }
 
